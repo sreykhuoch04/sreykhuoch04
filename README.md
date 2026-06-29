@@ -1,96 +1,143 @@
 # 👋 Hi, I'm Yory Sreykhuoch
 
-🎓 Fourth-Year Data Science Student at the Institute of Technology of Cambodia (ITC)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Fourth-Year+Data+Science+Student;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Passionate+About+Data+Science;Always+Learning+New+Things" />
+</p>
 
-🇰🇭 Phnom Penh, Cambodia
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreykhuoch04&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
 # 💫 About Me
 
-I am a Data Science student passionate about using data and machine learning to solve real-world problems.
+🎓 Fourth-Year Data Science Student at the **Institute of Technology of Cambodia (ITC)**
 
-I enjoy learning new technologies by building practical projects. My current interests include Machine Learning, Deep Learning, Data Engineering, Computer Vision, and Natural Language Processing.
+🇰🇭 Phnom Penh, Cambodia
 
-I am continuously improving my programming, analytical thinking, and problem-solving skills through university coursework and personal projects.
+I am passionate about using **Data Science** and **Artificial Intelligence** to solve real-world problems.
+
+I enjoy learning by building practical projects and continuously improving my knowledge in Machine Learning, Deep Learning, Computer Vision, Data Analysis, and Natural Language Processing.
+
+I believe the best way to learn is through hands-on experience, so I enjoy exploring new technologies and applying them to real datasets and real-world applications.
+
+### 🎯 Career Goal
+
+Become a professional **Data Scientist** and **AI Engineer** by building impactful data-driven solutions.
 
 ---
 
 # 🚀 Currently Learning
 
-- Machine Learning
-- Deep Learning
-- Data Engineering
-- Docker
-- Apache Spark
-- Apache Kafka
-- Hugging Face
-- Natural Language Processing
-- Computer Vision
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- ⚙️ Data Engineering
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 📊 Data Analytics
 
 ---
 
 # 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-# 📊 Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+</p>
 
 ---
 
-# 🧠 Deep Learning
+# 📊 Data Science & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+<p>
 
-I have experience building beginner and intermediate deep learning projects using TensorFlow.
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 Deep Learning & Computer Vision
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+</p>
 
 ---
 
 # 📈 Data Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
 
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-I use Power BI and Excel to create dashboards and perform data analysis.
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
----
-
-# 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-I have experience designing databases, writing SQL queries, and building database-driven applications with MySQL.
+</p>
 
 ---
 
-# 🛠 Tools
+# 🗄️ Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+</p>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+---
+
+# 🛠️ Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=for-the-badge&logo=apachespark"/>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-Learning-000000?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-Learning-FFD21E?style=for-the-badge&logo=huggingface"/>
+
+</p>
 
 ---
 
@@ -98,105 +145,163 @@ I have experience designing databases, writing SQL queries, and building databas
 
 ## 📰 Fake News Detection
 
-Machine Learning project for classifying fake and real news articles.
+A Machine Learning project that classifies news articles as **Fake** or **Real** using Natural Language Processing techniques.
 
-**Skills Used**
+### Technologies
 
-- Data preprocessing
+- Python
+- Pandas
+- Scikit-learn
 - TF-IDF
 - Machine Learning
-- Model evaluation
 
 ---
 
 ## 🎓 Student Dropout Prediction
 
-Machine Learning project to predict whether a student is likely to drop out.
+A Machine Learning project that predicts whether a student is likely to drop out based on academic and demographic information.
 
-**Skills Used**
+### Technologies
 
-- Data cleaning
-- Feature engineering
+- Python
+- Scikit-learn
 - Random Forest
-- Model evaluation
-- Flask deployment
+- Flask
 
 ---
 
 ## ⚡ Electricity Consumption Prediction
 
-Linear Regression project for predicting household electricity consumption.
+A Linear Regression project that predicts household electricity consumption using historical data.
 
-**Skills Used**
+### Technologies
 
+- Python
 - Linear Regression
-- Data visualization
-- Model evaluation
-- Flask deployment
+- Matplotlib
+- Flask
 
 ---
 
 ## 😊 Face Recognition Attendance System
 
-Computer Vision project for attendance using facial recognition.
+A Computer Vision project that performs attendance using face recognition.
 
-**Skills Used**
+### Technologies
 
-- OpenCV
-- Face Recognition
 - Python
+- OpenCV
 
 ---
 
 ## 😷 Face Mask Detection
 
-Deep Learning project for detecting whether a person is wearing a face mask.
+A Deep Learning project that detects whether people are wearing face masks.
 
-**Skills Used**
+### Technologies
 
 - TensorFlow
-- CNN
 - OpenCV
+- CNN
 
 ---
 
-## 🛒 Skincare Store Management System
+## 🛍️ Skincare Store Management System
 
-Database and web application project using Flask and MySQL.
+A web-based product management system built using Flask and MySQL.
 
-**Skills Used**
+### Technologies
 
-- SQL
 - Flask
 - MySQL
 - HTML
 - CSS
+- SQL
 
 ---
 
 ## 📊 Power BI Dashboards
 
-Interactive dashboards for exploring and visualizing datasets.
+Interactive dashboards created for data visualization and business analysis.
+
+### Technologies
+
+- Power BI
+- Excel
+- SQL
 
 ---
 
-# 🎯 Goals
+# 📚 Areas of Interest
 
-- Strengthen my Machine Learning knowledge
-- Learn Data Engineering tools
-- Build more end-to-end AI projects
-- Gain experience in MLOps
-- Become a professional Data Scientist
-
----
-
-# 📫 Contact Me
-
-📧 Email: yorysreykhuoch9@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yorysreykhuoch
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
+- Data Visualization
+- Data Engineering
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreykhuoch04&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreykhuoch04&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sreykhuoch04&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sreykhuoch04&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/yorysreykhuoch">
+<img src="https://img.shields.io/badge/LinkedIn-Yory%20Sreykhuoch-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yorysreykhuoch9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-yorysreykhuoch9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"Learning never exhausts the mind."** – Leonardo da Vinci
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+If you like my projects, feel free to ⭐ my repositories.
+
+</p>
